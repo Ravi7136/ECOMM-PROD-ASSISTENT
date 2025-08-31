@@ -1,0 +1,11 @@
+[project]
+name = "ecomm-prod-assistent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-core>=0.3.75",
+    "requests>=2.32.5",
+]
